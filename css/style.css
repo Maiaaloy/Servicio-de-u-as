@@ -1,0 +1,13 @@
+img{
+    width: 350px;
+}
+h1,h2{
+    color: rgb(255, 35, 101);
+}
+body{
+   
+    background-image: url(../img/Fondo.jpg)
+}
+h3{
+    color: rgb(129, 121, 129);
+}
